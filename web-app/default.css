@@ -49,4 +49,6 @@ main
 td
 {
     background-color: #08f;
+    color: white;
+    font-weight: bold;
 }
